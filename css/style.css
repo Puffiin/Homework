@@ -1,0 +1,34 @@
+
+.baslik {
+    width: 20%;
+    margin: auto;
+    color: rgb(47, 4, 221);
+    font-size: 37px;
+}
+.center {
+    width: 50%;
+    margin: auto;
+    color: black;
+    width: 50%;
+    margin: auto;
+
+}
+body {
+    
+    background-color: aquamarine;
+}
+
+.iletisim {
+    width: 50%;
+    margin: auto;
+    
+}
+
+.resim {
+    width: 50%;
+    margin: auto;
+}
+
+.renk {
+    color: black;
+}
